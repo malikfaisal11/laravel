@@ -267,6 +267,12 @@
                     </svg>
                     <div class="absolute inset-0 rounded-t-lg lg:rounded-t-none lg:rounded-r-lg shadow-[inset_0px_0px_0px_1px_rgba(26,26,0,0.16)] dark:shadow-[inset_0px_0px_0px_1px_#fffaed2d]"></div>
                 </div>
+                 <button 
+            class="px-6 py-2 bg-blue-500 text-white rounded hover:bg-blue-600 transition"
+            onclick="alert('Button works!')"
+        >
+            Click Me
+        </button>
             </main>
         </div>
 
